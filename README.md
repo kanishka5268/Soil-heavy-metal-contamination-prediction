@@ -20,7 +20,3 @@ Logistic Regression achieved the highest accuracy of 97.5%
 ## Author
 
 **Kanishka**
-
-Biochemical Engineering, IIT (BHU) Varanasi
-
-GitHub: https://github.com/kanishka5268
