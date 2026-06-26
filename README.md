@@ -17,7 +17,10 @@ Source: https://www.kaggle.com/datasets/ziya07/soil-heavy-metal
 ## Results
 Logistic Regression achieved the highest accuracy of 97.5%
 
-## How to Run
-1. Clone the repository
-2. Install requirements
-3. Open the notebook
+## Author
+
+**Kanishka**
+
+Biochemical Engineering, IIT (BHU) Varanasi
+
+GitHub: https://github.com/kanishka5268
