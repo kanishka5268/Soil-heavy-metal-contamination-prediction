@@ -15,7 +15,7 @@ This project compares various Machine Learning models to predict soil heavy meta
 Source: https://www.kaggle.com/datasets/ziya07/soil-heavy-metal
 
 ## Results
-Logistic Regression achieved the highest accuracy of 97.5%
+XGBoost achieved the highest accuracy of 97.5%
 
 ## Author
 
